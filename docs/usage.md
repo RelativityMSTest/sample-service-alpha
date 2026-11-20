@@ -4,3 +4,6 @@
 from calc.operations import add
 add(1, 2)
 ```
+
+Option A test: a Ship change.
+Second commit.
