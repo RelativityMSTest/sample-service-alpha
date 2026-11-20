@@ -1,3 +1,1 @@
-# Sensitive paths always need a human code owner.
-/.github/   @marcinsmach
-/infra/     @marcinsmach
+* @marcinsmach
