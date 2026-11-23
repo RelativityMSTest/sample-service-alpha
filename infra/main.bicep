@@ -9,3 +9,4 @@ resource sa 'Microsoft.Storage/storageAccounts@2023-01-01' = {
 }
 
 // option A test
+// demo change
